@@ -7,6 +7,7 @@ Nesse repositório coloquei os códigos de atividades que utilizei para aprender
 ## Conteúdo das Atividades
 
 | Atividade | Conteúdo | Estado |
+| :--- | :--- | :--- |
 | **1** | Structs | Completo |
 | **2** | Introdução a Ponteiros | Completo |
 | **3** | Ponteiro de Ponteiro | Completo |
