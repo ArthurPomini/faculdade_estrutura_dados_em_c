@@ -28,6 +28,8 @@ int main() {
         printf("%d\n", vet[i]);
     }
 
+    free(vet);
+
     system("pause");
     return 0;
 }
