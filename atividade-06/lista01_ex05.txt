@@ -1,0 +1,2 @@
+- Push (Empilhar): Insere o dado no topo da pilha
+- Pop (Desempilhar): Remove o dado do topo da pilha

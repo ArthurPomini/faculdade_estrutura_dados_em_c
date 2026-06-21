@@ -1,0 +1,2 @@
+Primeiro Exemplo: Pilha de aplicativos abertos no android.
+Segundo Exemplo: Alt + Tab (atalho de troca de janelas do windows)

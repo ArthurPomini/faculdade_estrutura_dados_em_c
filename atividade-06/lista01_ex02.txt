@@ -1,0 +1,8 @@
+Na pilha, a inserção de um dado é realizado jogando o dado para o topo, utilizando somente um
+ponteiro, chamado TOP. Com isso, os dados vão se EMPILHANDO, um em cima do outro.
+    Para a remoção dos dados, eles são removidos utilizando o mesmo ponteiro TOP, então, os últimos
+dados colocados serão os primeiros a serem removidos, denominando assim o nome do método LIFO (Last
+In, First Out).
+    Já na fila, o método utilizado é o FIFO (First In, First Out), ou seja, o primeiro que entra
+na Fila também é o primeiro a sair. A inserção dos dados é realizado com um ponteiro chamado FIM e
+a remoção é feita com um ponteiro chamado INICIO.

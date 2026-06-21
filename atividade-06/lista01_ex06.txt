@@ -1,0 +1,2 @@
+Vai identificar que a pilha está vazia, pois, se o ponteiro que aponta para o topo está com o 
+valor NULL, então significa que não tem dado inserido.
