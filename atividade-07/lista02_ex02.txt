@@ -1,0 +1,5 @@
+typedef struct _no {
+    int dado;
+    struct _no *proximo;
+    struct _no *anterior;
+} No;

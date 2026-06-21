@@ -1,0 +1,5 @@
+O enunciado da questão não deixa claro onde será inserido o valor NULL, mas vamos levar em consideração
+que será inserido no inicio da lista. Se a lista possui os valores 10, 20, 30, 40 e 50, e recebe NULL no inicio da lista,
+agora ela estará considerando que a lista esta vazia, mesmo estando com os valores registrados na memória do computador.
+Se a lista está sendo considerada como vazia, logo, na hora da remoção do valor 30 da lista, o sistema alertará o usuário
+que a lista está vazia e que o valor 30 não existe na lista.

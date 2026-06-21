@@ -1,0 +1,6 @@
+REPRESENTAÇÃO DO TERMINAL:
+
+[ 19 ] <- *p (topo da pilha)
+[ 8 ]
+[ 71 ]
+NULL

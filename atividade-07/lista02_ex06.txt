@@ -1,0 +1,6 @@
+A lista circular tem como principal característica o último elemento apontar de volta para
+o topo da lista, ou seja, diferente das listas encadeadas onde o último elemento é identificado
+por NULL, a lista circular tem como último elemento apontar de volta para o início.
+
+Um modelo prático de lista circular que podemos encontrar no dia a dia é o modo repetição do Spotify,
+onde a música aponta de volta para ela mesma e repete assim que termina de reproduzir uma vez.

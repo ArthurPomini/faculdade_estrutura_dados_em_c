@@ -1,0 +1,4 @@
+Na linha 5, um laço while é utilizado para buscar o valor que o usuário passar
+como parâmetro. As condições do laço são: ENQUANTO aux for diferente de NULL (aponta para um nó válido) EE ENQUANTO valor de aux
+for diferente do número passado como parâmetro. Nisso, ele percorrerá o laço com 'aux = aux->prox'
+até encontrar o valor desejado.
